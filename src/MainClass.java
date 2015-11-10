@@ -17,13 +17,14 @@ public class MainClass {
 		
 		//=========================================//
 		//perform all operations here
-				
+		//use calopobject to perform operations and get the result back
 		CalculateOperations calopobject = new CalculateOperations();
 		
 		
 		
 		//==========================================//
 		//Output to screen all operations here
+		System.out.println("Sum =");
 		
 		
 	}
