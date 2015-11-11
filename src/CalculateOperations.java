@@ -2,7 +2,7 @@
 public class CalculateOperations {
 //fill in the correct return values.
 	int add(int a, int b){
-		return a-b;
+		return a+b;
 	}
 	
 	int subtract (int a, int b){
@@ -17,6 +17,8 @@ public class CalculateOperations {
 	int divide(int a, int b){
 		return a/b;
 	}
+
+	int mod(int a, int b){ return a%b; }
 	
 	
 	
